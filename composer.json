@@ -1,0 +1,15 @@
+{
+    "name": "cristhian/stock",
+    "autoload": {
+        "psr-4": {
+            "Cristhian\\Stock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cristhianleon22",
+            "email": "cristhiancleon@gmail.com"
+        }
+    ],
+    "require": {}
+}

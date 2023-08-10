@@ -1,5 +1,6 @@
 <?php
 
+
 namespace acciones\src\model;
 
 //PDO es una extension para acceder a las DB
